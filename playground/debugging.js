@@ -13,3 +13,7 @@ console.table(person);
 // n = NEXT
 // c = CONTINUE
 // repl = Read-Eval-Print-Loop (REPLACE MODE)
+
+// Chrome Debugging
+// node --inspect-brk playground/debugging.js
+// chrome://inspect/#devices
